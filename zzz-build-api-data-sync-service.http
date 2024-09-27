@@ -1,0 +1,6 @@
+@zzz_build_api_data_sync_service_HostAddress = http://localhost:5062
+
+GET {{zzz_build_api_data_sync_service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
